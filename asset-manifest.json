@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/euphoric/static/css/main.6022c35b.css",
+    "main.js": "/euphoric/static/js/main.57a55dc9.js",
+    "static/js/453.701ae9c0.chunk.js": "/euphoric/static/js/453.701ae9c0.chunk.js",
+    "index.html": "/euphoric/index.html",
+    "main.6022c35b.css.map": "/euphoric/static/css/main.6022c35b.css.map",
+    "main.57a55dc9.js.map": "/euphoric/static/js/main.57a55dc9.js.map",
+    "453.701ae9c0.chunk.js.map": "/euphoric/static/js/453.701ae9c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6022c35b.css",
+    "static/js/main.57a55dc9.js"
+  ]
+}
